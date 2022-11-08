@@ -1,1 +1,4 @@
-# RCR
+# RCR TERRAFORM ARCHITECTURE
+#
+
+![](./architecture)
